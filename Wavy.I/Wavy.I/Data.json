@@ -1,0 +1,32 @@
+[
+    {
+        "Temperatura": 14,
+        "VelocidadeVento": 10.2,
+        "EnergiaProd": 100.0
+    },
+    {
+        "Temperatura": 25.5,
+        "VelocidadeVento": 0,
+        "EnergiaProd": 100.0
+    },
+    {
+        "Temperatura": 35.5,
+        "VelocidadeVento": 10.2,
+        "EnergiaProd": 100.0
+    },
+    {
+        "Temperatura": 41,
+        "VelocidadeVento": 12.2,
+        "EnergiaProd": 100.0
+    },
+    {
+        "Temperatura": 5.5,
+        "VelocidadeVento": 10.2,
+        "EnergiaProd": 100.0
+    },
+    {
+        "Temperatura": 6.5,
+        "VelocidadeVento": 10.2,
+        "EnergiaProd": 100.0
+    }
+]

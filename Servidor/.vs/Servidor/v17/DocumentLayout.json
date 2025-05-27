@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0150CBE-82C5-4F78-A811-CF94364F4FE7}|Servidor\\Servidor.csproj|c:\\users\\alp3x\\desktop\\alp3x\\01_utad\\02_2ano\\2sem\\lab\\utad.todo\\sdprojectii\\servidor\\servidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0150CBE-82C5-4F78-A811-CF94364F4FE7}|Servidor\\Servidor.csproj|solutionrelative:servidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0150CBE-82C5-4F78-A811-CF94364F4FE7}|Servidor\\Servidor.csproj|c:\\users\\alp3x\\desktop\\alp3x\\01_utad\\02_2ano\\2sem\\lab\\utad.todo\\sdprojectii\\servidor\\servidor\\servidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0150CBE-82C5-4F78-A811-CF94364F4FE7}|Servidor\\Servidor.csproj|solutionrelative:servidor\\servidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0150CBE-82C5-4F78-A811-CF94364F4FE7}|Servidor\\Servidor.csproj|c:\\users\\alp3x\\desktop\\alp3x\\01_utad\\02_2ano\\2sem\\lab\\utad.todo\\sdprojectii\\servidor\\servidor\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D0150CBE-82C5-4F78-A811-CF94364F4FE7}|Servidor\\Servidor.csproj|solutionrelative:servidor\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servidor",
+              "DocumentMoniker": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\Servidor\\Servidor.csproj",
+              "RelativeDocumentMoniker": "Servidor\\Servidor.csproj",
+              "ToolTip": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\Servidor\\Servidor.csproj",
+              "RelativeToolTip": "Servidor\\Servidor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T14:26:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\Servidor\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "Servidor\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\Servidor\\Protos\\greet.proto",
+              "RelativeToolTip": "Servidor\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-27T14:24:27.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\Servidor\\Program.cs",
+              "RelativeDocumentMoniker": "Servidor\\Program.cs",
+              "ToolTip": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Servidor\\Servidor\\Program.cs",
+              "RelativeToolTip": "Servidor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:18:15.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
