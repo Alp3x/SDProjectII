@@ -1,5 +1,18 @@
 # SDProjectII
 
+---
+
+Distributed Systems using:
+- Grpc
+- Publisher / Subscriver
+
+---
+
+How to use:
+  To be Written...
+
+---
+
 Project by:
 
 Al78557 - Francisco Carvalho | 
