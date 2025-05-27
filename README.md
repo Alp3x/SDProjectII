@@ -1,7 +1,5 @@
 # SDProjectII
 
----
-
 Distributed Systems using:
 - Grpc
 - Publisher / Subscriver
