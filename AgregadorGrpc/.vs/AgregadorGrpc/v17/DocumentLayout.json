@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\AgregadorGrpc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DC230C2-8984-4C60-93B5-7DE03E1FFAD5}|AgregadorGrpc\\AgregadorGrpc.csproj|c:\\users\\alp3x\\desktop\\alp3x\\01_utad\\02_2ano\\2sem\\lab\\utad.todo\\sdprojectii\\agregadorgrpc\\agregadorgrpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9DC230C2-8984-4C60-93B5-7DE03E1FFAD5}|AgregadorGrpc\\AgregadorGrpc.csproj|solutionrelative:agregadorgrpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DC230C2-8984-4C60-93B5-7DE03E1FFAD5}|AgregadorGrpc\\AgregadorGrpc.csproj|c:\\users\\alp3x\\desktop\\alp3x\\01_utad\\02_2ano\\2sem\\lab\\utad.todo\\sdprojectii\\agregadorgrpc\\agregadorgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC230C2-8984-4C60-93B5-7DE03E1FFAD5}|AgregadorGrpc\\AgregadorGrpc.csproj|solutionrelative:agregadorgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC230C2-8984-4C60-93B5-7DE03E1FFAD5}|AgregadorGrpc\\AgregadorGrpc.csproj|c:\\users\\alp3x\\desktop\\alp3x\\01_utad\\02_2ano\\2sem\\lab\\utad.todo\\sdprojectii\\agregadorgrpc\\agregadorgrpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9DC230C2-8984-4C60-93B5-7DE03E1FFAD5}|AgregadorGrpc\\AgregadorGrpc.csproj|solutionrelative:agregadorgrpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\GrpcServer\\GrpcServer\\Protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
@@ -21,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -34,12 +34,31 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
               "WhenOpened": "2025-05-27T13:00:51.012Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "greet.proto",
               "DocumentMoniker": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\AgregadorGrpc\\AgregadorGrpc\\Protos\\greet.proto",
               "RelativeDocumentMoniker": "AgregadorGrpc\\Protos\\greet.proto",
@@ -51,26 +70,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\AgregadorGrpc\\AgregadorGrpc\\Program.cs",
               "RelativeDocumentMoniker": "AgregadorGrpc\\Program.cs",
               "ToolTip": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\AgregadorGrpc\\AgregadorGrpc\\Program.cs",
               "RelativeToolTip": "AgregadorGrpc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T12:57:55.482Z",
               "EditorCaption": ""

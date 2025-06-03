@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,10 +38,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -54,8 +50,7 @@
               "RelativeToolTip": "Wavy.I\\DataModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:25:38.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T15:25:38.573Z"
             },
             {
               "$type": "Document",
@@ -67,8 +62,7 @@
               "RelativeToolTip": "Wavy.I\\Data.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T15:23:49.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T15:23:49.468Z"
             },
             {
               "$type": "Document",
