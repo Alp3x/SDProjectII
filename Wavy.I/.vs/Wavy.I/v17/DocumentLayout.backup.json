@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,14 +37,6 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DataModel.cs",
@@ -54,8 +46,7 @@
               "RelativeToolTip": "Wavy.I\\DataModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:25:38.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T15:25:38.573Z"
             },
             {
               "$type": "Document",
@@ -67,8 +58,7 @@
               "RelativeToolTip": "Wavy.I\\Data.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T15:23:49.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T15:23:49.468Z"
             },
             {
               "$type": "Document",
@@ -78,7 +68,7 @@
               "RelativeDocumentMoniker": "Wavy.I\\Program.cs",
               "ToolTip": "C:\\Users\\Alp3x\\Desktop\\Alp3x\\01_UTAD\\02_2Ano\\2Sem\\LAb\\utad.ToDo\\SDProjectII\\Wavy.I\\Wavy.I\\Program.cs",
               "RelativeToolTip": "Wavy.I\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T14:43:06.267Z",
               "EditorCaption": ""
