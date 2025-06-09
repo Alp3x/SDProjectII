@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using System.Security.Cryptography.X509Certificates;
 
-string path = "C:/Users/Alp3x/Desktop/Alp3x/01_UTAD/02_2Ano/2Sem//LAb/utad.ToDo/SDProjectII/Wavy.I/Wavy.I/Data.json";
+string path = "./Wavy.I/Wavy.I/Data.json";
 
 string Id = "Wavy1";
 

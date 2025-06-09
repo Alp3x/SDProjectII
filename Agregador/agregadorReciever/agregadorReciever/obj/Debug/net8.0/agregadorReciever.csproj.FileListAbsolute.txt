@@ -40,3 +40,24 @@ C:\Users\Alp3x\Desktop\Alp3x\01_UTAD\02_2Ano\2Sem\LAb\utad.ToDo\SDProjectII\Agre
 C:\Users\Alp3x\Desktop\Alp3x\01_UTAD\02_2Ano\2Sem\LAb\utad.ToDo\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.pdb
 C:\Users\Alp3x\Desktop\Alp3x\01_UTAD\02_2Ano\2Sem\LAb\utad.ToDo\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.genruntimeconfig.cache
 C:\Users\Alp3x\Desktop\Alp3x\01_UTAD\02_2Ano\2Sem\LAb\utad.ToDo\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\ref\agregadorReciever.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\agregadorReciever.exe
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\agregadorReciever.deps.json
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\agregadorReciever.runtimeconfig.json
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\agregadorReciever.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\agregadorReciever.pdb
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.AssemblyInfo.cs
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.sourcelink.json
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregado.410F035B.Up2Date
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\refint\agregadorReciever.dll
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.pdb
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\agregadorReciever.genruntimeconfig.cache
+C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\Agregador\agregadorReciever\agregadorReciever\obj\Debug\net8.0\ref\agregadorReciever.dll

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net9.0": {
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
@@ -174,7 +174,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net9.0": [
       "Newtonsoft.Json >= 13.0.3",
       "RabbitMQ.Client >= 7.1.2"
     ]
@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\Agregador\\agregadorReciever\\agregadorReciever\\agregadorReciever.csproj",
-      "projectName": "agregadorReciever",
-      "projectPath": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\Agregador\\agregadorReciever\\agregadorReciever\\agregadorReciever.csproj",
+      "projectUniqueName": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\Agregador\\agregadorReciever\\Publisher\\Publisher.csproj",
+      "projectName": "Publisher",
+      "projectPath": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\Agregador\\agregadorReciever\\Publisher\\Publisher.csproj",
       "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\Agregador\\agregadorReciever\\agregadorReciever\\obj\\",
+      "outputPath": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\Agregador\\agregadorReciever\\Publisher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,15 +201,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -226,8 +226,8 @@
       "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",

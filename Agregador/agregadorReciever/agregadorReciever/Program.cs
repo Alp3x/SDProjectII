@@ -39,8 +39,8 @@ consumer.ReceivedAsync += (model, ea) =>
         EnergiaProd = float.Parse(energiaProd)
     };
 
-    string docPathRead = "C:/Users/Alp3x/Desktop/Alp3x/01_UTAD/02_2Ano/2Sem/LAb/utad.ToDo/SDProjectII/Agregador/agregadorReciever/agregadorReciever/RawData.json";
-    string docPathWrite = "C:/Users/Alp3x/Desktop/Alp3x/01_UTAD/02_2Ano/2Sem/LAb/utad.ToDo/SDProjectII/Agregador/agregadorReciever/agregadorReciever/";
+    string docPathRead = "./Agregador/agregadorReciever/agregadorReciever/RawData.json";
+    string docPathWrite = "./Agregador/agregadorReciever/agregadorReciever/";
 
     var dadosJson = File.ReadAllText(docPathRead);
 
@@ -61,4 +61,3 @@ consumer.ReceivedAsync += (model, ea) =>
 
 await channel.BasicConsumeAsync("hello", autoAck: true, consumer: consumer);
 
-if
