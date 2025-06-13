@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "RpcPLvM5RmY=",
+  "dgSpecHash": "O8LeqEMbsA4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Filipe\\Documents\\Sistemas Distribuídos\\RepoTrabalho2\\SDProjectII\\InterfaceServer\\InterfaceServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Filipe\\.nuget\\packages\\google.protobuf\\3.31.1\\google.protobuf.3.31.1.nupkg.sha512",
+    "C:\\Users\\Filipe\\.nuget\\packages\\grpc.core.api\\2.71.0\\grpc.core.api.2.71.0.nupkg.sha512",
+    "C:\\Users\\Filipe\\.nuget\\packages\\grpc.net.client\\2.71.0\\grpc.net.client.2.71.0.nupkg.sha512",
+    "C:\\Users\\Filipe\\.nuget\\packages\\grpc.net.common\\2.71.0\\grpc.net.common.2.71.0.nupkg.sha512",
+    "C:\\Users\\Filipe\\.nuget\\packages\\grpc.tools\\2.72.0\\grpc.tools.2.72.0.nupkg.sha512",
+    "C:\\Users\\Filipe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Filipe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
