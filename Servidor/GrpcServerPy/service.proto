@@ -4,6 +4,7 @@ package example;
 
 service MyService {
   rpc SayHello (HelloRequest) returns (HelloReply);
+  rpc ComputeStats (DataList) returns (StatsReply);
 }
 
 message HelloRequest {
@@ -12,4 +13,22 @@ message HelloRequest {
 
 message HelloReply {
   string message = 1;
+}
+
+message Data {
+  string id = 1;
+  float temperatura = 2;
+  float velocidade_vento = 3;
+  float energia_prod = 4;
+}
+
+message DataList {
+  repeated Data dados = 1;
+}
+
+message StatsReply {
+  float media_temperatura = 1;
+  float media_vento = 2;
+  float media_energia = 3;
+  string forecast = 4;
 }
