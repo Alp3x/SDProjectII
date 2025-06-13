@@ -3,7 +3,7 @@ using System.IO;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using Grpc.Net.Client;
-using Example;
+using Example; 
 using Newtonsoft.Json;
 
 public class DataJson
@@ -23,7 +23,7 @@ public class CLI
 
         while (true)
         {
-            Console.Write("Comando (mean/forecast/exit): ");
+            Console.Write("Comando (mean/forecast/anomalies/exit): ");
             var cmd = Console.ReadLine()?.Trim();
 
             if (cmd == "exit")
@@ -66,6 +66,46 @@ public class CLI
                     Console.WriteLine($"Erro: {ex.Message}");
                 }
             }
+            else if (cmd == "anomalies")
+            {
+                try
+                {
+                    var dataJson = File.ReadAllText(@"C:\Users\Filipe\Documents\Sistemas Distribuídos\RepoTrabalho2\SDProjectII\ServidorPrincipal\ReceivedData.json");
+                    var dados = JsonConvert.DeserializeObject<List<DataJson>>(dataJson);
+
+                    var dataList = new DataList();
+                    foreach (var d in dados)
+                    {
+                        dataList.Dados.Add(new Data
+                        {
+                            Id = d.Id,
+                            Temperatura = d.Temperatura,
+                            VelocidadeVento = d.VelocidadeVento,
+                            EnergiaProd = d.EnergiaProd
+                        });
+                    }
+
+                    var reply = await client.DetectAnomaliesAsync(dataList);
+
+                    if (reply.Anomalies.Count == 0)
+                    {
+                        Console.WriteLine("✅ Nenhuma anomalia detetada.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("⚠️ Anomalias encontradas:");
+                        foreach (var anomaly in reply.Anomalies)
+                        {
+                            Console.WriteLine(anomaly);
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Erro: {ex.Message}");
+                }
+            }
+
             else
             {
                 Console.WriteLine("Comando inválido.");

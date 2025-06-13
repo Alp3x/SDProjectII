@@ -5,6 +5,7 @@ package example;
 service MyService {
   rpc SayHello (HelloRequest) returns (HelloReply);
   rpc ComputeStats (DataList) returns (StatsReply);
+  rpc DetectAnomalies (DataList) returns (AnomalyReply);
 }
 
 message HelloRequest {
@@ -13,6 +14,11 @@ message HelloRequest {
 
 message HelloReply {
   string message = 1;
+}
+
+
+message AnomalyReply {
+  repeated string anomalies = 1;
 }
 
 message Data {

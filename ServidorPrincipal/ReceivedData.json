@@ -1,12 +1,6 @@
 [
   {
     "Id": "Agregador1",
-    "Temperatura": 41.0,
-    "VelocidadeVento": 12.2,
-    "EnergiaProd": 100.0
-  },
-  {
-    "Id": "Agregador1",
     "Temperatura": 14.0,
     "VelocidadeVento": 10.2,
     "EnergiaProd": 100.0
@@ -45,6 +39,36 @@
     "Id": "Agregador1",
     "Temperatura": 35.5,
     "VelocidadeVento": 10.2,
+    "EnergiaProd": 100.0
+  },
+  {
+    "Id": "Agregador1",
+    "Temperatura": 41.0,
+    "VelocidadeVento": 12.2,
+    "EnergiaProd": 100.0
+  },
+  {
+    "Id": "Agregador1",
+    "Temperatura": 5.5,
+    "VelocidadeVento": 10.2,
+    "EnergiaProd": 100.0
+  },
+  {
+    "Id": "Agregador1",
+    "Temperatura": 6.5,
+    "VelocidadeVento": 10.2,
+    "EnergiaProd": 100.0
+  },
+  {
+    "Id": "Agregador1",
+    "Temperatura": 14.0,
+    "VelocidadeVento": 10.2,
+    "EnergiaProd": 100.0
+  },
+  {
+    "Id": "Agregador1",
+    "Temperatura": 25.5,
+    "VelocidadeVento": 0.0,
     "EnergiaProd": 100.0
   }
 ]

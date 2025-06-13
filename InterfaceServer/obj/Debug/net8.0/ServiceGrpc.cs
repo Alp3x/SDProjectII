@@ -53,6 +53,8 @@ namespace Example {
     static readonly grpc::Marshaller<global::Example.DataList> __Marshaller_example_DataList = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Example.DataList.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Example.StatsReply> __Marshaller_example_StatsReply = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Example.StatsReply.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Marshaller<global::Example.AnomalyReply> __Marshaller_example_AnomalyReply = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Example.AnomalyReply.Parser));
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Method<global::Example.HelloRequest, global::Example.HelloReply> __Method_SayHello = new grpc::Method<global::Example.HelloRequest, global::Example.HelloReply>(
@@ -69,6 +71,14 @@ namespace Example {
         "ComputeStats",
         __Marshaller_example_DataList,
         __Marshaller_example_StatsReply);
+
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Method<global::Example.DataList, global::Example.AnomalyReply> __Method_DetectAnomalies = new grpc::Method<global::Example.DataList, global::Example.AnomalyReply>(
+        grpc::MethodType.Unary,
+        __ServiceName,
+        "DetectAnomalies",
+        __Marshaller_example_DataList,
+        __Marshaller_example_AnomalyReply);
 
     /// <summary>Service descriptor</summary>
     public static global::Google.Protobuf.Reflection.ServiceDescriptor Descriptor
@@ -142,6 +152,26 @@ namespace Example {
       public virtual grpc::AsyncUnaryCall<global::Example.StatsReply> ComputeStatsAsync(global::Example.DataList request, grpc::CallOptions options)
       {
         return CallInvoker.AsyncUnaryCall(__Method_ComputeStats, null, options, request);
+      }
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual global::Example.AnomalyReply DetectAnomalies(global::Example.DataList request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      {
+        return DetectAnomalies(request, new grpc::CallOptions(headers, deadline, cancellationToken));
+      }
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual global::Example.AnomalyReply DetectAnomalies(global::Example.DataList request, grpc::CallOptions options)
+      {
+        return CallInvoker.BlockingUnaryCall(__Method_DetectAnomalies, null, options, request);
+      }
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual grpc::AsyncUnaryCall<global::Example.AnomalyReply> DetectAnomaliesAsync(global::Example.DataList request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      {
+        return DetectAnomaliesAsync(request, new grpc::CallOptions(headers, deadline, cancellationToken));
+      }
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual grpc::AsyncUnaryCall<global::Example.AnomalyReply> DetectAnomaliesAsync(global::Example.DataList request, grpc::CallOptions options)
+      {
+        return CallInvoker.AsyncUnaryCall(__Method_DetectAnomalies, null, options, request);
       }
       /// <summary>Creates a new instance of client from given <c>ClientBaseConfiguration</c>.</summary>
       [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]

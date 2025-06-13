@@ -1,4 +1,5 @@
 import grpc
+import statistics
 from concurrent import futures
 import service_pb2
 import service_pb2_grpc
@@ -26,6 +27,23 @@ class MyService(service_pb2_grpc.MyServiceServicer):
             media_vento=media_vento,
             media_energia=media_energia,
             forecast=forecast
+        )
+    
+    def DetectAnomalies(self, request, context):
+        anomalies = []
+
+        for d in request.dados:
+            if d.temperatura < -10 or d.temperatura > 50:
+                anomalies.append(f"{d.id}: Temperatura anómala: {d.temperatura}")
+            if d.velocidade_vento < 0:
+                anomalies.append(f"{d.id}: Vento negativo: {d.velocidade_vento}")
+            if d.energia_prod < 0:
+                anomalies.append(f"{d.id}: Energia negativa: {d.energia_prod}")
+            if d.velocidade_vento == 0 and d.energia_prod > 0:
+                anomalies.append(f"{d.id}: Energia sem vento.")
+
+        return service_pb2.AnomalyReply(
+            anomalies=anomalies
         )
 
 def serve():
